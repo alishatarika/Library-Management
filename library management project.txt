@@ -1,0 +1,3 @@
+In this project , we develop a software in which we keep the records of a book issue or return by the students.
+If a student return a book on time return no fine, if student donot return book on time fine will be charged .
+fine for one day  2 rs will be charged.
